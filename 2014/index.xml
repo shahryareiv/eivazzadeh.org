@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2014s on My New Hugo Site</title>
-    <link>http://example.org/2014/</link>
-    <description>Recent content in 2014s on My New Hugo Site</description>
+    <title>2014s on Eivazzadeh</title>
+    <link>/2014/</link>
+    <description>Recent content in 2014s on Eivazzadeh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/2014/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="/2014/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>حاشیه‌نویسی بر یک پژوهش</title>
-      <link>http://example.org/2014/2014-09-30_hashiyeh_pajoohesh_pub_fa/2014-09-30-%D8%AD%D8%A7%D8%B4%DB%8C%D9%87%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A8%D8%B1-%DB%8C%DA%A9-%D9%BE%DA%98%D9%88%D9%87%D8%B4/</link>
+      <link>/2014/2014-09-30_hashiyeh_pajoohesh_pub_fa/2014-09-30-%D8%AD%D8%A7%D8%B4%DB%8C%D9%87%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A8%D8%B1-%DB%8C%DA%A9-%D9%BE%DA%98%D9%88%D9%87%D8%B4/</link>
       <pubDate>Tue, 30 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/2014/2014-09-30_hashiyeh_pajoohesh_pub_fa/2014-09-30-%D8%AD%D8%A7%D8%B4%DB%8C%D9%87%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A8%D8%B1-%DB%8C%DA%A9-%D9%BE%DA%98%D9%88%D9%87%D8%B4/</guid>
+      <guid>/2014/2014-09-30_hashiyeh_pajoohesh_pub_fa/2014-09-30-%D8%AD%D8%A7%D8%B4%DB%8C%D9%87%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A8%D8%B1-%DB%8C%DA%A9-%D9%BE%DA%98%D9%88%D9%87%D8%B4/</guid>
       <description>داستان یک پژوهش دانشمندان ناسا در مورد خشکسالی ۲۷ ساله ایران چه می‌گویند و دیگر چه چیزهایی را باید دید
 دریافت مقاله به صورت PDF (حجم نیم مگابایت)
 شهریار عیوض‌زاده

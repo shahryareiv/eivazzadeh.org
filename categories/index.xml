@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>http://example.org/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <title>Categories on Eivazzadeh</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Eivazzadeh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>هرچیزی</title>
-      <link>http://example.org/categories/%D9%87%D8%B1%DA%86%DB%8C%D8%B2%DB%8C/</link>
+      <link>/categories/%D9%87%D8%B1%DA%86%DB%8C%D8%B2%DB%8C/</link>
       <pubDate>Tue, 30 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/%D9%87%D8%B1%DA%86%DB%8C%D8%B2%DB%8C/</guid>
+      <guid>/categories/%D9%87%D8%B1%DA%86%DB%8C%D8%B2%DB%8C/</guid>
       <description></description>
     </item>
     
     <item>
       <title>زمین و انسانهایش</title>
-      <link>http://example.org/categories/%D8%B2%D9%85%DB%8C%D9%86-%D9%88-%D8%A7%D9%86%D8%B3%D8%A7%D9%86%D9%87%D8%A7%DB%8C%D8%B4/</link>
+      <link>/categories/%D8%B2%D9%85%DB%8C%D9%86-%D9%88-%D8%A7%D9%86%D8%B3%D8%A7%D9%86%D9%87%D8%A7%DB%8C%D8%B4/</link>
       <pubDate>Mon, 26 Feb 2007 20:58:19 +0000</pubDate>
       
-      <guid>http://example.org/categories/%D8%B2%D9%85%DB%8C%D9%86-%D9%88-%D8%A7%D9%86%D8%B3%D8%A7%D9%86%D9%87%D8%A7%DB%8C%D8%B4/</guid>
+      <guid>/categories/%D8%B2%D9%85%DB%8C%D9%86-%D9%88-%D8%A7%D9%86%D8%B3%D8%A7%D9%86%D9%87%D8%A7%DB%8C%D8%B4/</guid>
       <description></description>
     </item>
     
