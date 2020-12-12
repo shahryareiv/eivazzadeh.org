@@ -3,11 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/2014/</loc>
+    <lastmod>2014-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/categories/</loc>
+    <lastmod>2014-09-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/</loc>
+    <lastmod>2014-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2014/2014-09-30_hashiyeh_pajoohesh_pub_fa/2014-09-30-%D8%AD%D8%A7%D8%B4%DB%8C%D9%87%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A8%D8%B1-%DB%8C%DA%A9-%D9%BE%DA%98%D9%88%D9%87%D8%B4/</loc>
+    <lastmod>2014-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/%D9%87%D8%B1%DA%86%DB%8C%D8%B2%DB%8C/</loc>
+    <lastmod>2014-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2007/</loc>
+    <lastmod>2007-02-26T20:58:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/%D8%B2%D9%85%DB%8C%D9%86-%D9%88-%D8%A7%D9%86%D8%B3%D8%A7%D9%86%D9%87%D8%A7%DB%8C%D8%B4/</loc>
+    <lastmod>2007-02-26T20:58:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/p20/</loc>
+    <lastmod>2007-02-26T20:58:19+00:00</lastmod>
   </url>
   
   <url>

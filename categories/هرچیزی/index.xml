@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>هرچیزی on My New Hugo Site</title>
+    <link>http://example.org/categories/%D9%87%D8%B1%DA%86%DB%8C%D8%B2%DB%8C/</link>
+    <description>Recent content in هرچیزی on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/categories/%D9%87%D8%B1%DA%86%DB%8C%D8%B2%DB%8C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>حاشیه‌نویسی بر یک پژوهش</title>
       <link>http://example.org/2014/2014-09-30_hashiyeh_pajoohesh_pub_fa/2014-09-30-%D8%AD%D8%A7%D8%B4%DB%8C%D9%87%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A8%D8%B1-%DB%8C%DA%A9-%D9%BE%DA%98%D9%88%D9%87%D8%B4/</link>
@@ -19,21 +19,6 @@
 عضو هیأت مدیره و هیأت مؤسس جمعیت داوطلبان سبز
 ۴ مهرماه ۱۳۹۳
 عـبارت «پیش‌بینی ناسا از خشکسالی سی‌ساله برای ایران» چیزی است که این روزها در گفتگوی دغدغه‌مندان محیط زیست ایران در حال مکرر شدن است. عبارت را در اینترنت جستجو بکنید، تا متوجه بشوید که پیش‌بینی خشکسالی در سی سال آینده برای ایران، از معدود اخبار محیط‌زیستی شده که شانس دیده شدن توسط آدم‌های خارج از جمعیت کوچک فعالان محیط‌زیست پیدا کرده است.</description>
-    </item>
-    
-    <item>
-      <title>پایان داستان جبهه سبز</title>
-      <link>http://example.org/p20/</link>
-      <pubDate>Mon, 26 Feb 2007 20:58:19 +0000</pubDate>
-      
-      <guid>http://example.org/p20/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     
   </channel>
