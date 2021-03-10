@@ -556,7 +556,7 @@ video {
 
   font-weight: 400;
 
-  src: url(/fonts/Gandom.woff) format("woff");
+  src: url(./fonts/Gandom.woff) format("woff");
 }
 
 /* @font-face {
