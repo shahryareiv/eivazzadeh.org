@@ -575,6 +575,10 @@ h2 {
   line-height: 1.75rem;
 }
 
+p {
+  font-family: Gandom;
+}
+
 .container {
   width: 100%;
 }
