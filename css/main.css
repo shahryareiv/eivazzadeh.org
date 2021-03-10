@@ -827,15 +827,12 @@ video {
       src: url(/fonts/proxima-nova/500-Medium.woff) format("woff");
     } */
 
-h1 {
-  font-size: 1.5rem;
-  line-height: 2rem;
-}
-
-h2 {
-  font-size: 1.25rem;
-  line-height: 1.75rem;
-}
+/* h1 {
+        @apply text-2xl;
+      }
+      h2 {
+        @apply text-xl;
+      }  */
 
 h1,h2,h3,h4,p,a {
   font-family: Farhang;
