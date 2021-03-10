@@ -576,11 +576,11 @@ video {
 
   font-weight: 100;
 
-  src: url('../fonts/Farhang/eot/farhang-thinsharp.eot');
+  src: url('../fonts/Farhang/eot/Farhang-ThinSharp.eot');
 
-  src: url('../fonts/Farhang/eot/farhang-thinsharp.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
-            url('../fonts/Farhang/woff2/farhang-thinsharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
-            url('../fonts/Farhang/woff/farhang-thinsharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+  src: url('../fonts/Farhang/eot/Farhang-ThinSharp.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+            url('../fonts/Farhang/woff2/Farhang-ThinSharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+            url('../fonts/Farhang/woff/Farhang-ThinSharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
 }
 
 @font-face {
@@ -590,11 +590,11 @@ video {
 
   font-weight: 200;
 
-  src: url('../fonts/Farhang/eot/farhang-extralightsharp.eot');
+  src: url('../fonts/Farhang/eot/Farhang-ExtraLightSharp.eot');
 
-  src: url('../fonts/Farhang/eot/farhang-extralightsharp.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
-            url('../fonts/Farhang/woff2/farhang-extralightsharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
-            url('../fonts/Farhang/woff/farhang-extralightsharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+  src: url('../fonts/Farhang/eot/Farhang-ExtraLightSharp.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+            url('../fonts/Farhang/woff2/Farhang-ExtraLightSharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+            url('../fonts/Farhang/woff/Farhang-ExtraLightSharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
 }
 
 @font-face {
@@ -604,11 +604,11 @@ video {
 
   font-weight: 300;
 
-  src: url('../fonts/Farhang/eot/farhang-lightsharp.eot');
+  src: url('../fonts/Farhang/eot/Farhang-LightSharp.eot');
 
-  src: url('../fonts/Farhang/eot/farhang-lightsharp.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
-            url('../fonts/Farhang/woff2/farhang-lightsharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
-            url('../fonts/Farhang/woff/farhang-lightsharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+  src: url('../fonts/Farhang/eot/Farhang-LightSharp.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+            url('../fonts/Farhang/woff2/Farhang-LightSharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+            url('../fonts/Farhang/woff/Farhang-LightSharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
 }
 
 @font-face {
@@ -618,11 +618,11 @@ video {
 
   font-weight: 500;
 
-  src: url('../fonts/Farhang/eot/farhang-mediumsharp.eot');
+  src: url('../fonts/Farhang/eot/Farhang-MediumSharp.eot');
 
-  src: url('../fonts/Farhang/eot/farhang-mediumsharp.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
-            url('../fonts/Farhang/woff2/farhang-mediumsharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
-            url('../fonts/Farhang/woff/farhang-mediumsharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+  src: url('../fonts/Farhang/eot/Farhang-MediumSharp.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+            url('../fonts/Farhang/woff2/Farhang-MediumSharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+            url('../fonts/Farhang/woff/Farhang-MediumSharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
 }
 
 @font-face {
@@ -632,11 +632,11 @@ video {
 
   font-weight: 600;
 
-  src: url('../fonts/Farhang/eot/farhang-demiboldsharp.eot');
+  src: url('../fonts/Farhang/eot/Farhang-DemiBoldSharp.eot');
 
-  src: url('../fonts/Farhang/eot/farhang-demiboldsharp.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
-            url('../fonts/Farhang/woff2/farhang-demiboldsharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
-            url('../fonts/Farhang/woff/farhang-demiboldsharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+  src: url('../fonts/Farhang/eot/Farhang-DemiBoldSharp.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+            url('../fonts/Farhang/woff2/Farhang-DemiBoldSharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+            url('../fonts/Farhang/woff/Farhang-DemiBoldSharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
 }
 
 @font-face {
@@ -646,11 +646,11 @@ video {
 
   font-weight: 800;
 
-  src: url('../fonts/Farhang/eot/farhang-extraboldsharp.eot');
+  src: url('../fonts/Farhang/eot/Farhang-ExtraBoldSharp.eot');
 
-  src: url('../fonts/Farhang/eot/farhang-extraboldsharp.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
-            url('../fonts/Farhang/woff2/farhang-extraboldsharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
-            url('../fonts/Farhang/woff/farhang-extraboldsharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+  src: url('../fonts/Farhang/eot/Farhang-ExtraBoldSharp.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+            url('../fonts/Farhang/woff2/Farhang-extraBoldSharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+            url('../fonts/Farhang/woff/Farhang-extraBoldSharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
 }
 
 @font-face {
@@ -660,11 +660,11 @@ video {
 
   font-weight: 900;
 
-  src: url('../fonts/Farhang/eot/farhang-blacksharp.eot');
+  src: url('../fonts/Farhang/eot/Farhang-BlackSharp.eot');
 
-  src: url('../fonts/Farhang/eot/farhang-blacksharp.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
-            url('../fonts/Farhang/woff2/farhang-blacksharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
-            url('../fonts/Farhang/woff/farhang-blacksharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+  src: url('../fonts/Farhang/eot/Farhang-BlackSharp.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+            url('../fonts/Farhang/woff2/Farhang-BlackSharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+            url('../fonts/Farhang/woff/Farhang-BlackSharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
 }
 
 @font-face {
@@ -674,11 +674,11 @@ video {
 
   font-weight: bold;
 
-  src: url('../fonts/Farhang/eot/farhang-boldsharp.eot');
+  src: url('../fonts/Farhang/eot/Farhang-BoldSharp.eot');
 
-  src: url('../fonts/Farhang/eot/farhang-boldsharp.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
-            url('../fonts/Farhang/woff2/farhang-boldsharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
-            url('../fonts/Farhang/woff/farhang-boldsharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+  src: url('../fonts/Farhang/eot/Farhang-BoldSharp.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+            url('../fonts/Farhang/woff2/Farhang-BoldSharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+            url('../fonts/Farhang/woff/Farhang-BoldSharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
 }
 
 @font-face {
@@ -688,17 +688,17 @@ video {
 
   font-weight: normal;
 
-  src: url('../fonts/Farhang/eot/farhang-regularsharp.eot');
+  src: url('../fonts/Farhang/eot/Farhang-RegularSharp.eot');
 
-  src: url('../fonts/Farhang/eot/farhang-regularsharp.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
-            url('../fonts/Farhang/woff2/farhang-regularsharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
-            url('../fonts/Farhang/woff/farhang-regularsharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+  src: url('../fonts/Farhang/eot/Farhang-RegularSharp.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+            url('../fonts/Farhang/woff2/Farhang-RegularSharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+            url('../fonts/Farhang/woff/Farhang-RegularSharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
 }
 
 /* @font-face {
       font-family: Proxima Nova;
       font-weight: 500;
-      src: url(/fonts/proxima-nova/500-medium.woff) format("woff");
+      src: url(/fonts/proxima-nova/500-Medium.woff) format("woff");
     } */
 
 h1 {
