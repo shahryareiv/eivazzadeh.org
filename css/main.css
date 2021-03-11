@@ -32792,7 +32792,7 @@ h1,h2,h3,h4,p,a {
   padding-right: 1rem;
 }
 
-@media (min-width: 640px) {
+@media (min-width: 768px) {
   .am_textwidth {
     margin-left: auto;
     margin-right: auto;
@@ -32808,7 +32808,7 @@ h1,h2,h3,h4,p,a {
   padding-right: 1rem;
 }
 
-@media (min-width: 640px) {
+@media (min-width: 768px) {
   .am_pagewidth {
     margin-left: auto;
     margin-right: auto;
@@ -32824,7 +32824,7 @@ h1,h2,h3,h4,p,a {
   padding-right: 1rem;
 }
 
-@media (min-width: 640px) {
+@media (min-width: 768px) {
   .hover\:am_textwidth:hover {
     margin-left: auto;
     margin-right: auto;
@@ -32840,7 +32840,7 @@ h1,h2,h3,h4,p,a {
   padding-right: 1rem;
 }
 
-@media (min-width: 640px) {
+@media (min-width: 768px) {
   .hover\:am_pagewidth:hover {
     margin-left: auto;
     margin-right: auto;
@@ -32856,7 +32856,7 @@ h1,h2,h3,h4,p,a {
   padding-right: 1rem;
 }
 
-@media (min-width: 640px) {
+@media (min-width: 768px) {
   .focus\:am_textwidth:focus {
     margin-left: auto;
     margin-right: auto;
@@ -32872,7 +32872,7 @@ h1,h2,h3,h4,p,a {
   padding-right: 1rem;
 }
 
-@media (min-width: 640px) {
+@media (min-width: 768px) {
   .focus\:am_pagewidth:focus {
     margin-left: auto;
     margin-right: auto;
