@@ -32784,13 +32784,26 @@ h1,h2,h3,h4,p,a {
 }
 
 .am_textwidth{
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 42rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+@media (min-width: 640px) {
+  .am_textwidth {
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 .am_pagewidth{
   justify-content: center;
   margin-left: auto;
   margin-right: auto;
-  max-width: 42rem;
+  max-width: 48rem;
   padding-left: 1rem;
   padding-right: 1rem;
 }
@@ -32803,13 +32816,26 @@ h1,h2,h3,h4,p,a {
 }
 
 .hover\:am_textwidth:hover{
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 42rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+@media (min-width: 640px) {
+  .hover\:am_textwidth:hover {
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 .hover\:am_pagewidth:hover{
   justify-content: center;
   margin-left: auto;
   margin-right: auto;
-  max-width: 42rem;
+  max-width: 48rem;
   padding-left: 1rem;
   padding-right: 1rem;
 }
@@ -32822,13 +32848,26 @@ h1,h2,h3,h4,p,a {
 }
 
 .focus\:am_textwidth:focus{
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 42rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+@media (min-width: 640px) {
+  .focus\:am_textwidth:focus {
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 .focus\:am_pagewidth:focus{
   justify-content: center;
   margin-left: auto;
   margin-right: auto;
-  max-width: 42rem;
+  max-width: 48rem;
   padding-left: 1rem;
   padding-right: 1rem;
 }
