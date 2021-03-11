@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://shahryareiv.github.io/eivazzadeh.org/ar/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shahryareiv.github.io/eivazzadeh.org/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://shahryareiv.github.io/eivazzadeh.org/ar/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shahryareiv.github.io/eivazzadeh.org/ar/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shahryareiv.github.io/eivazzadeh.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://shahryareiv.github.io/eivazzadeh.org/ar/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shahryareiv.github.io/eivazzadeh.org/ar/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shahryareiv.github.io/eivazzadeh.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://shahryareiv.github.io/eivazzadeh.org/ar/"
+                />
+  </url>
+  
+</urlset>
