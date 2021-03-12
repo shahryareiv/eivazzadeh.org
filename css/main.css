@@ -32783,6 +32783,8 @@ h1,h2,h3,h4,p,a {
           animation: bounce 1s infinite;
 }
 
+/* max-w-3xl =>	max-width: 48rem => 16*48=768*/
+
 .am_textwidth{
   justify-content: center;
   margin-left: auto;
@@ -32791,6 +32793,8 @@ h1,h2,h3,h4,p,a {
   padding-left: 1rem;
   padding-right: 1rem;
 }
+
+/* max-w-5xl =>	max-width: 64rem => 16*64=1024*/
 
 .am_pagewidth{
   justify-content: center;
@@ -32801,6 +32805,8 @@ h1,h2,h3,h4,p,a {
   padding-right: 1rem;
 }
 
+/* max-w-3xl =>	max-width: 48rem => 16*48=768*/
+
 .hover\:am_textwidth:hover{
   justify-content: center;
   margin-left: auto;
@@ -32809,6 +32815,8 @@ h1,h2,h3,h4,p,a {
   padding-left: 1rem;
   padding-right: 1rem;
 }
+
+/* max-w-5xl =>	max-width: 64rem => 16*64=1024*/
 
 .hover\:am_pagewidth:hover{
   justify-content: center;
@@ -32819,6 +32827,8 @@ h1,h2,h3,h4,p,a {
   padding-right: 1rem;
 }
 
+/* max-w-3xl =>	max-width: 48rem => 16*48=768*/
+
 .focus\:am_textwidth:focus{
   justify-content: center;
   margin-left: auto;
@@ -32827,6 +32837,8 @@ h1,h2,h3,h4,p,a {
   padding-left: 1rem;
   padding-right: 1rem;
 }
+
+/* max-w-5xl =>	max-width: 64rem => 16*64=1024*/
 
 .focus\:am_pagewidth:focus{
   justify-content: center;
