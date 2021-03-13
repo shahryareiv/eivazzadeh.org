@@ -32788,7 +32788,8 @@ h1,h2,h3,h4,p,a {
 /* justify-center mx-auto px-4 */
 
 .am_textwidth{
-  max-width: 48rem;
+  /* @apply  max-w-3xl; */
+  max-width: 65ch;
 }
 
 /* max-w-5xl =>	max-width: 64rem => 16*64=1024*/
@@ -32804,7 +32805,8 @@ h1,h2,h3,h4,p,a {
 /* justify-center mx-auto px-4 */
 
 .hover\:am_textwidth:hover{
-  max-width: 48rem;
+  /* @apply  max-w-3xl; */
+  max-width: 65ch;
 }
 
 /* max-w-5xl =>	max-width: 64rem => 16*64=1024*/
@@ -32820,7 +32822,8 @@ h1,h2,h3,h4,p,a {
 /* justify-center mx-auto px-4 */
 
 .focus\:am_textwidth:focus{
-  max-width: 48rem;
+  /* @apply  max-w-3xl; */
+  max-width: 65ch;
 }
 
 /* max-w-5xl =>	max-width: 64rem => 16*64=1024*/
