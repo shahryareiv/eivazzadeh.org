@@ -32785,68 +32785,50 @@ h1,h2,h3,h4,p,a {
 
 /* max-w-3xl =>	max-width: 48rem => 16*48=768*/
 
+/* justify-center mx-auto px-4 */
+
 .am_textwidth{
-  justify-content: center;
-  margin-left: auto;
-  margin-right: auto;
   max-width: 48rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
 }
 
 /* max-w-5xl =>	max-width: 64rem => 16*64=1024*/
+
+/* justify-center mx-auto px-4 */
 
 .am_pagewidth{
-  justify-content: center;
-  margin-left: auto;
-  margin-right: auto;
   max-width: 64rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
 }
 
 /* max-w-3xl =>	max-width: 48rem => 16*48=768*/
+
+/* justify-center mx-auto px-4 */
 
 .hover\:am_textwidth:hover{
-  justify-content: center;
-  margin-left: auto;
-  margin-right: auto;
   max-width: 48rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
 }
 
 /* max-w-5xl =>	max-width: 64rem => 16*64=1024*/
 
+/* justify-center mx-auto px-4 */
+
 .hover\:am_pagewidth:hover{
-  justify-content: center;
-  margin-left: auto;
-  margin-right: auto;
   max-width: 64rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
 }
 
 /* max-w-3xl =>	max-width: 48rem => 16*48=768*/
 
+/* justify-center mx-auto px-4 */
+
 .focus\:am_textwidth:focus{
-  justify-content: center;
-  margin-left: auto;
-  margin-right: auto;
   max-width: 48rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
 }
 
 /* max-w-5xl =>	max-width: 64rem => 16*64=1024*/
 
+/* justify-center mx-auto px-4 */
+
 .focus\:am_pagewidth:focus{
-  justify-content: center;
-  margin-left: auto;
-  margin-right: auto;
   max-width: 64rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
 }
 
 @media (min-width: 640px) {
