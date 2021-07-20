@@ -1,0 +1,572 @@
+
+<!DOCTYPE html>
+<html>
+    
+    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>From Technology to Health Information Technology &middot; Shahryar Eivazzadeh</title>
+
+    
+    <link rel="stylesheet" href="css/main.css">
+
+    
+    <script src="js/svelte_bundle.js"></script>
+
+    
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+    
+    <link href="" rel="alternate" type="application/rss+xml" title="Shahryar Eivazzadeh" />
+
+    
+    <meta property="og:title" content="From Technology to Health Information Technology" />
+<meta property="og:description" content="Table of Contents From Technology to Health Information Technology Health Technology Information Technology Health Information Technology &amp; Systems Simorgh story and the persistence evaluation aspects References      From Technology to Health Information Technology 
+  &#8220;Open the pod bay doors, HAL!&#8221;
+&#8220;I&#8217;m sorry, Dave.
+ I&#8217;m afraid I can&#8217;t do that.&#8221; This scene is a turning point in the 2001: A Space Odyssey movie (1968) and novel when HAL 9000, the main computer of the spaceship and a symbol of top-notch technology, defies Dave Bowman the captain and main character of the story, suggesting that it was the one who plotted the murder of the crew in staged accidents." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/writings_en/2015/from_technology_to_health_technology/" /><meta property="article:section" content="writings_en" />
+<meta property="article:published_time" content="2015-12-01T00:00:00+00:00" />
+<meta property="article:modified_time" content="2015-12-01T00:00:00+00:00" />
+
+    
+
+    
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="From Technology to Health Information Technology"/>
+<meta name="twitter:description" content="Table of Contents From Technology to Health Information Technology Health Technology Information Technology Health Information Technology &amp; Systems Simorgh story and the persistence evaluation aspects References      From Technology to Health Information Technology 
+  &#8220;Open the pod bay doors, HAL!&#8221;
+&#8220;I&#8217;m sorry, Dave.
+ I&#8217;m afraid I can&#8217;t do that.&#8221; This scene is a turning point in the 2001: A Space Odyssey movie (1968) and novel when HAL 9000, the main computer of the spaceship and a symbol of top-notch technology, defies Dave Bowman the captain and main character of the story, suggesting that it was the one who plotted the murder of the crew in staged accidents."/>
+
+
+    
+    
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MEASUREMENT_ID"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-MEASUREMENT_ID', { 'anonymize_ip': false });
+}
+</script>
+        
+
+
+    
+    
+    
+
+</head>
+
+
+
+
+    <body>
+
+        
+        
+        <div id="body-block" class=" flex flex-col h-screen">
+
+            <div id="header-block" class="flex-initial">
+                
+                
+
+
+
+
+
+<header class="w-full justify-items-center py-8 ">
+    
+    
+        
+    <nav class="am-pagewidth container flex flex-row flex-wrap justify-between content-between  md:px-4">
+            
+        <div class="flex-auto">
+            
+            <div class="text-2xl font-semibold flex  justify-center md:justify-start">
+                <a href="/">
+                    
+                    <img alt="Shahryar Eivazzadeh" class="h-8 mx-auto my-auto object-contain place-self-center  pb-2 w-auto" src="/info/shahryar_logo_english.png" />    
+
+                </a>    
+            </div>
+            
+            <div class=" py-2 flex justify-center md:justify-start">
+                
+
+
+<span class="flex flex-wrap justify-center ">
+    
+    
+    <a class=" text-gray-500 capital mr-4 md:mr-8 tracking-widest  font-sans am_link " style="font-variant: small-caps " href="/blog_en/" title="">blog</a>
+    
+    
+    <a class=" text-gray-500 capital mr-4 md:mr-8 tracking-widest  font-sans am_link " style="font-variant: small-caps " href="/writings_en/" title="">articles</a>
+    
+    
+    <a class=" text-gray-500 capital mr-4 md:mr-8 tracking-widest  font-sans am_link " style="font-variant: small-caps " href="/media_en/" title="">presentations</a>
+    
+    
+    <a class=" text-gray-500 capital mr-4 md:mr-8 tracking-widest  font-sans am_link " style="font-variant: small-caps " href="/artefacts_en/" title="">artefacts</a>
+    
+</span>
+
+            
+            </div>
+        </div>
+        
+        <div class="flex-auto" dir="rtl"> 
+            
+            <div class="text-2xl font-semibold flex justify-center md:justify-start" dir="rtl">
+                <a href="/">
+                    
+                    <img alt="شهریار عیوض‌زاده" class="h-8 mx-auto my-auto object-contain place-self-center  pb-2 w-auto" src="/info/shahryar_logo_farsi.png" />    
+
+                </a>    
+            </div>
+            
+            <div class="py-2 flex justify-center md:justify-start">
+                
+
+<span class="flex flex-wrap  justify-center "  dir="rtl">
+    
+    
+    
+    
+
+    
+     
+    
+
+    
+    
+    <a class=" text-gray-500 tracking-widest text-sm capital ml-4 md:ml-8 
+    
+    font-farsi-sans am_link" href="/blog_fa/" title="">دفتر و خبر</a>
+
+    
+    
+    
+    
+
+    
+     
+    
+
+    
+    
+    <a class=" text-gray-500 tracking-widest text-sm capital ml-4 md:ml-8 
+    
+    font-farsi-sans am_link" href="/writings_fa/" title="">نوشته‌ها</a>
+
+    
+    
+    
+    
+
+    
+     
+    
+
+    
+    
+    <a class=" text-gray-500 tracking-widest text-sm capital ml-4 md:ml-8 
+    
+    font-farsi-sans am_link" href="/media_fa/" title="">‌دیداری-شنیداری‌ها</a>
+
+    
+    
+    
+    
+
+    
+     
+    
+
+    
+    
+    <a class=" text-gray-500 tracking-widest text-sm capital ml-4 md:ml-8 
+    
+    font-farsi-sans am_link" href="/artefacts_fa/" title="">ساخته‌ها</a>
+
+    
+</span>
+
+            
+            </div>    
+        </div>
+    </nav>    
+</header>
+
+
+            </div>
+
+            <div id="header-block" class="flex-initial">
+                
+                
+            </div>
+        
+            <div id="main-aside-growing-block" class="am-hugo-baseof flex flex-grow justify-center ">
+                
+            
+                
+
+  
+  
+      <div id="main-aside-block" class="h-full am-pagewidth  flex flex-wrap flex-col lg:flex-row lg:justify-between  py-8" >
+
+    
+      
+      
+      <main class="am-hugo-single mx-auto justify-center shadow-md bg-am-color-paper">
+        
+
+          <div class=" am-text am-paper-pad"   dir=ltr>
+            
+<div id="header">
+<div id="toc" class="toc">
+<div id="toctitle">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#chp_from_technology_to_health_information_technology">From Technology to Health Information Technology</a>
+<ul class="sectlevel2">
+<li><a href="#_health_technology">Health Technology</a></li>
+<li><a href="#_information_technology">Information Technology</a></li>
+<li><a href="#_health_information_technology_systems">Health Information Technology &amp; Systems</a></li>
+<li><a href="#_simorgh_story_and_the_persistence_evaluation_aspects">Simorgh story and the persistence evaluation aspects</a></li>
+<li><a href="#_references">References</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="content">
+<div class="sect1">
+<h1 id="chp_from_technology_to_health_information_technology">From Technology to Health Information Technology</h1>
+<div class="sectionbody">
+<div class="paragraph">
+<p></p>
+</div>
+<div class="quoteblock epigraph">
+<blockquote>
+<div class="paragraph">
+<p>&#8220;Open the pod bay doors, HAL!&#8221;<br>
+&#8220;I&#8217;m sorry, Dave.<br>
+<span class="hs1"> </span> I&#8217;m afraid I can&#8217;t do that.&#8221; <span class="endnote">This scene is a turning point in the <em>2001: A Space Odyssey</em> movie (1968) and novel when HAL 9000, the main computer of the spaceship and a symbol of top-notch technology, defies Dave Bowman the captain and main character of the story, suggesting that it was the one who plotted the murder of the crew in staged accidents. Also, HAL confesses that it intended to take control of the mission itself alone because it was programmed to make sure the mission will succeed while it considered the others to be risks to this goal.</span></p>
+</div>
+</blockquote>
+<div class="attribution">
+&#8212; Arthur C. Clarke cite:[kubrick_2001_1968]<br>
+<cite>2001: A Space Odyssey</cite>
+</div>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="paragraph">
+<p>the very broad definition of technology</p>
+</div>
+</div>
+</div>
+<div class="imageblock marginfigurenote">
+<div class="content">
+<img src="html_images/fig_technology_in3langs.png" alt="The cognate words for technology in three languages">
+</div>
+<div class="title">Figure 1. The cognate words for <em>technology</em> in Avestan (Old Iranian), Sanskrit, and Ancient Greek, all inherited from the Proto-Indo-European language.</div>
+</div>
+<div class="paragraph lettrine">
+<p>What is <em>technology</em>?
+The answer to this question has the potential to alter fundamentally both the scope and the approach of health information <em>technology</em> evaluation activities.
+It might not be the case that there exists only a unique universally accepted answer to this question; at the same time, it might be high expectation if we think that any answer would draw crisp boundaries around the technology definition in the lexical landscape.
+It is out of our agenda to find an answer or survey on different answers to this question, but the scales suggested by some answers might help us to take a more insightful approach toward the topic of health information technology evaluation .</p>
+</div>
+<div class="paragraph">
+<p>The word technology, from its deep etymological root, <em>teks-na-</em> meaning <em>to craft or weave</em> in the Proto-Indo-European language <sup class="footnote">[<a id="_footnoteref_1" class="footnote" href="#_footnote_1" title="View footnote.">1</a>]</sup> (<a href="#harper_technology_2015">Harper&#44; 2015</a>), to its Ancient Greek incarnation as <em>tekhnologia</em> (τεχνολογία) (<a href="#harper_technology_2015">Harper&#44; 2015</a>) , to its more contemporary definitions such as the Webster&#8217;s definition as &#8220;a description of arts; or a treatise on the arts&#8221; (<a href="#webster_technology_1828">Webster&#44; 1828</a>) , to its early twenty-century definitions as in <em>Century Dictionary</em>, which gives &#8220;spinning, metal-working, or brewing&#8221; as examples of technology (<a href="#whitney_technology_1902">Whitney&#44; 1902</a>), and finally to its definition in the latest dictionaries as &#8220;the use of science in industry, engineering, etc., to invent useful things or to solve problems&#8221; or &#8220;a machine, piece of equipment, method, etc., that is created by technology&#8221; (<a href="#merriam-webster_technology_2015">Merriam-Webster&#44; 2015</a>), always have had the explicit meaning or connotation of creating something <em>useful</em>, while this <em>something</em> has varied from tangible artifacts in older definitions to both tangible and non-tangible things in the current ones.</p>
+</div>
+<div class="imageblock marginfigurenote">
+<div class="content">
+<img src="html_images/fig_technology_centurydictionary.png" alt="Entry for the word technology in the Century Dictionary (1902)">
+</div>
+<div class="title">Figure 2. Entry for <em>technology</em> in the Century Dictionary (1902). The examples in the definition focus on tangible artifacts.</div>
+</div>
+<div class="paragraph newthought">
+<p>Along these linguistic attempts to define <em>what is technology</em>, some of the philosophers, usually under the general topic of <em>philosophy of technology</em>, reflected upon the essence of technology. Heidegger believes:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+We ask the question concerning technology when we ask what it is. Everyone knows the two statements that answer our question. One says: Technology is a means to an end. The other says: Technology is a human activity. The two definitions of technology belong together. For to posit ends and procure and utilize the means to them is a human activity.
+</blockquote>
+<div class="attribution">
+&#8212; Martin Heidegger cite:[heidegger_question_1954]<br>
+<cite>The Question Concerning Technology</cite>
+</div>
+</div>
+<div class="paragraph">
+<p>This philosophical contemplation about the essence of technology suggests a quite broad inclusion criteria for what can be called technology as it is considered to be any "means to an end" and it happens through "human activity".
+Even this broad definition has been challenged by other contemporary philosophers who believe things categorized as technology are too diverse to share a unique defining characteristics semantic (<a href="#dusek_philosophy_2006">Dusek&#44; 2006&#44; p.&#160;22</a>).</p>
+</div>
+<div class="paragraph">
+<p>With the above introduction, we should be prepared for a wide angle of perspective on things that can be considered technology or its derivatives as health technology, information technology, or health information technology.
+This wide angle is probably the source of heterogeneity that eventually meets in the evaluation of health information systems.</p>
+</div>
+<div class="sect2">
+<h3 id="_health_technology">Health Technology</h3>
+<div class="sidebarblock">
+<div class="content">
+<div class="paragraph">
+<p>the vast landscape of health technology</p>
+</div>
+</div>
+</div>
+<div class="paragraph newthough">
+<p>Concluding from the above discussion, the perspective of the <em>health technology</em> definition looks quite wide also.
+If we restrict ourselves to the <em>useful</em> interventions we make to reach the goal of better health conditions, there would be many quite heterogeneous items in the list.
+Examples of the health technology can vary from a ocular prosthesis (artificial eye) implanted in the eyes of a female individual around 5000 years ago to the large corpus of the {SNOMED-CT} ontology, where one intervenes directly, and the other one establish a platform for health care improvement.
+The literature of {HTA-abbrev} also acknowledges this vast diversity.
+The {INAHTA-abbrev} glossary defines the health technology as:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+Any intervention that may be used to promote health, to prevent, diagnose or treat disease or for rehabilitation or long-term care. This includes the pharmaceuticals, devices, procedures and organizational systems used in health care.
+</blockquote>
+<div class="attribution">
+&#8212; INAHTA cite:[facey_karen_inahta_2006]<br>
+<cite>Health Technology Assessment Glossary</cite>
+</div>
+</div>
+<div class="paragraph">
+<p>This vast landscape of <em>health technology</em> definition increases the complexity or cost and decreases the efficiency or effectiveness of any health technology related activity, such as evaluation, that wants to make an inclusive, comprehensive, and uniform approach towards the health technology topic.</p>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="paragraph">
+<p>the blurred boundaries between the divisions of health technology</p>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Conquering the vast health technology landscape through dividing into sub-disciplines is a strategy that we already do, but it can also be challenging.
+Our diverse cognitive sense and the historical reasons influence how we categorize health technologies.
+In the above health technology definition by {INAHTA}, we can recognize implied divisions by pharmaceuticals, devices, procedures and organizational systems categories, while, the boundaries between these divisions is not very clear.
+For example, a <em>procedure</em> can be a surgical procedure, a procedure within operation team, or an organizational procedure.
+The first and the second type of procedures can be grouped into one while we can do the same for the second and third procedures.
+At the same time, the first and the third procedures can be considered far enough from each other to belong to different sub-groups of the health technology.
+This example can be extended to pharmaceuticals and devices subgroups.
+For example, stomach-resident devices and ingestible electronics (<a href="#zhang_ph-responsive_2015">Zhang et al.&#44; 2015</a>) are moving toward blurring the difference between devices and pharmaceuticals.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_information_technology">Information Technology</h3>
+<div class="paragraph newthought">
+<p>The term <em>information technology</em> was coined not long time ago.
+There has been a rise in the frequency of this term since the late 50s and still it continues (<span class="image"><img src="html_images/fig_sparkline_informationtechnology1900.png" alt="ngram diagram of information technology term since 1900"></span> ) <sup class="footnote">[<a id="_footnoteref_2" class="footnote" href="#_footnote_2" title="View footnote.">2</a>]</sup>.
+In Harvard Business Review, November 1958 issue, it is stated that:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+The new technology does not yet have a single established name. We shall call it information technology. It is composed of several related parts. One includes techniques for processing large amounts of information rapidly, and it is epitomized by the high-speed computer. A second part centers around the application of statistical and mathematical methods to decision-making problems; it is represented by techniques like mathematical programing, and by methodologies like operations research. A third part is in the offing, though its applications have not yet emerged very clearly; it consists of the simulation of higher-order thinking through computer programs.
+</blockquote>
+<div class="attribution">
+&#8212; Leavitt cite:[leavitt_management_1958]<br>
+<cite>Harvard Business Review</cite>
+</div>
+</div>
+<div class="paragraph">
+<p>This early definition of information technology departs clearly from wide possible definitions that could include even the Sumerian tablets in their defined scope of the information technology.
+A definition such as the above might be too limited, or might need revisions along the technological advancements, but it can be more practical than definitions that are too much inclusive.
+Pragmatism in bounding the scope of information technologies enables us to introduce practical evaluation methods for those technologies; still it might ignore the more accurate nature of the phenomenon.
+The balance between pragmatism and comprehensiveness perspectives can be a challenge for the evaluation.</p>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="paragraph">
+<p>informatics, more to the point</p>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Probably a more clear account of what we mean by information technology can be addressed by the term <em>informatics</em> and respectively <em>health informatics</em>.
+The term <em>informatics</em> is coined by Karl Steinbuch in 1957 (<a href="#steinbuch_informatik_1957">Steinbuch&#44; 1957</a>) in his book &#8220;Informatik: Automatische Informationsverarbeitung&#8221;, which translates to &#8220;Informatics: Automatic Information Processing&#8221; and shows a separation from other forms of information processing by characterizing it as being <em>automatic</em>.
+By this definition —and if we ignore some early analog computing devices such abacus and astrolabe which were also very use-case-specific for accounting and astronomy— the new automated computing devices are all those electronic devices, usually based on transistor technology, that automate information processing.
+Though, this perspective lacks the communication dimension, which nowadays we emphasize more by using the term <em>{ICT-abbrev}</em> instead of <em>{IT-abbrev}</em>; but we can extend our view —but probably not the <em>informatics</em> term— when talking about the evaluation of health information technology to include both the automated processing and communication.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_health_information_technology_systems">Health Information Technology &amp; Systems</h3>
+<div class="sidebarblock">
+<div class="content">
+<div class="paragraph">
+<p>health information systems and health informatics</p>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p></p>
+</div>
+<div class="paragraph newthought">
+<p>Health information technology inherits heterogeneity and diversity from the both health technology and information technology definitions.
+While being <em>automated</em> in information processing and being intended for some health or health care related outcome creates a practical zone for investigations, such as evaluating those systems.</p>
+</div>
+<div class="paragraph">
+<p>The terms <em>health information technology</em> and <em>health information system</em> might be used interchangeably in some contexts, but each of these terms has some connotations that we should be clear about them.
+Evaluation of a specific health information technology instance is usually about evaluating that technology in different applications and cases, which gives a wider perspective of evaluation in contrast to the evaluation of a health information system that is about an enumerated set of health information system implementations.
+From the other hand, a health information system can recruit more than one health information technologies, where all those heterogeneous technologies have taken part in the whole of that health information system.</p>
+</div>
+<div class="paragraph">
+<p>The literature of health technology assessment {HTA} emphasizes on its role in improving policy makings related to health technology (<a href="#banta_what_2009">Banta&#44; 2009</a>) and considers lots of economical considerations that implies the <em>health technology</em> in {HTA} is less concerned about specific instances.
+From the other side, relying more on adoption and acceptance of technology (<a href="#ammenwerth_it-adoption_2006">Ammenwerth&#44; Iller&#44; &amp; Mahler&#44; 2006</a>; <a href="#holden_technology_2010">Holden &amp; Karsh&#44; 2010</a>) shows health information system evaluation literature is more concerned about specific implementations that consists of technologies and human agents combined in the form of a unique system.
+It can be imagined that this separation between domains of concern is not very crisp and clear in all cases or studies, still a bit of more clarification can explain more about the intentions of an evaluation or a related study.</p>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="paragraph">
+<p>the composite nature of health information systems</p>
+</div>
+</div>
+</div>
+<div class="paragraph newthought">
+<p>The term <em>automatic</em> should not filter out non-automatic agents in evaluation of health information systems.
+Health information systems can be composed of automated and non-automated information retrieval, processing and communication agents, including computers and human agents.
+While we can narrow our focus on cases that include at least one informatics technology but we cannot ignore the wholeness of the system.
+The outcomes and quality attributes that we demand from a system are the productions of all subsystems working together.</p>
+</div>
+<div class="paragraph">
+<p>The holistic and functional perspective on health information systems also implies that a health information system can maintain its core characteristics and functionality while the underlying technologies can be changed totally.
+This is a drastic departure from the health technology and its volatile character.
+In the holistic and functional view, the technological changes do not change our perspective and approach to evaluation of health information systems and the evaluation aspects maintain to live much longer than the life of the underlying technologies.</p>
+</div>
+<div class="imageblock marginfigure">
+<div class="content">
+<img src="html_images/fig_simorgh.png" alt="The healing Simorgh">
+</div>
+<div class="title">Figure 3. Simorgh is a mythical bird in Persian literature, known for the power and knowledge of healing. Photo source: From Anvar-I Suhayli (1610) by unknown artist.</div>
+</div>
+</div>
+<div class="sect2 amgraybox">
+<h3 id="_simorgh_story_and_the_persistence_evaluation_aspects">Simorgh story and the persistence evaluation aspects</h3>
+<div class="paragraph newthought">
+<p>Consider this extreme example on how evaluations aspects in health information systems can sustain even across the imaginary and real world:</p>
+</div>
+<div class="paragraph">
+<p>Simorgh is a mythical bird in Persian literature, known for the power and knowledge of healing.
+In one episode of Shahnameh epic by Ferdowsi (936–1020), Zal, a mythical hero, <em>summons</em> Simorgh by burning a feather of her, and asks to tackle the situation of prolonged labor of his wife.
+Instead of any direct healing, Simorgh instructs techniques for anesthesia, Caesarian section, and the sterilization after surgery.
+The outcome of this intervention is the successful birth of Rostam, the mythical superhero of the Iranian culture.</p>
+</div>
+<div class="paragraph">
+<p>Today, we can <em>summon</em> a health app in a mobile phone and receive case-specific medical information anywhere, anytime, and in a quite ordinary but non-mythical way.
+An instant health-informative entity that used to be imaginary, and even rare and exclusive in that imagination, has turned to become real, abundant and increasingly available to all.
+Still, this animated fantasy needs to be evaluated if it has reached the level of promptness, accuracy, and effectiveness as well as its mythical counterpart, i.e. Simorgh, or not.
+It is interesting to note that the quality aspects that were mentioned or implied in the Simorgh myth, such as promptness, availability, trustworthiness, accuracy, and effectiveness have not changed much by moving from the context of myth with no materialistic reality to the context of the materialistic world of m-health apps.</p>
+</div>
+<div class="paragraph">
+<p>It looks like a paradox that we sometimes use <em>health information technology</em> and <em>health information system</em> terms interchangeably; while at the same time, a functional perspective on <em>health information systems</em> can make them invariant against technological changes.
+The same story can be true between different levels of technology, for example, from the user perspective the mobile communication technology is the desired functionality, and the type of transistor technology being used in the mobile device is not important for the most of users.
+Here, the functionality survives much longer than its underlying technologies making the evaluation (of system or technology ?) to sustain for a longer time.</p>
+</div>
+</div>
+<div class="sect2 ambibsection">
+<h3 id="_references">References</h3>
+<div class="paragraph">
+<p><a id="ammenwerth_it-adoption_2006"></a>Ammenwerth, E., Iller, C., &amp; Mahler, C. (2006). IT-Adoption and the Interaction of Task, Technology and Individuals: A Fit Framework and a Case Study. <em>BMC Medical Informatics and Decision Making</em>, <em>6</em>(1), 3. <a href="https://doi.org/10.1186/1472-6947-6-3" class="bare">https://doi.org/10.1186/1472-6947-6-3</a></p>
+</div>
+<div class="paragraph">
+<p><a id="banta_what_2009"></a>Banta, D. (2009). What Is Technology Assessment? <em>International Journal of Technology Assessment in Health Care</em>, <em>25</em>(Supplement S1), 7–9. <a href="https://doi.org/10.1017/S0266462309090333" class="bare">https://doi.org/10.1017/S0266462309090333</a></p>
+</div>
+<div class="paragraph">
+<p><a id="dusek_philosophy_2006"></a>Dusek, V. (2006). <em>Philosophy of Technology: An Introduction</em> (Vol. 90). Blackwell MaldenOxfordCarlston. Retrieved from <a href="http://aleteya.cs.buap.mx/ jlavalle/filMetInvComp/Philosophy_of_Technology__An_Introduction.pdf" class="bare">http://aleteya.cs.buap.mx/ jlavalle/filMetInvComp/Philosophy_of_Technology__An_Introduction.pdf</a></p>
+</div>
+<div class="paragraph">
+<p><a id="harper_technology_2015"></a>Harper, D. (2015). Technology. <em>Online Etymology Dictionary</em>.</p>
+</div>
+<div class="paragraph">
+<p><a id="holden_technology_2010"></a>Holden, R. J., &amp; Karsh, B.-T. (2010). The Technology Acceptance Model: Its Past and Its Future in Health Care. <em>Journal of Biomedical Informatics</em>, <em>43</em>(1), 159–172. <a href="https://doi.org/10.1016/j.jbi.2009.07.002" class="bare">https://doi.org/10.1016/j.jbi.2009.07.002</a></p>
+</div>
+<div class="paragraph">
+<p><a id="merriam-webster_technology_2015"></a>Merriam-Webster. (2015). Technology. <em>Merriam-Webster Online</em>. Merriam-Webster. Retrieved from <a href="http://www.merriam-webster.com/dictionary/technology" class="bare">http://www.merriam-webster.com/dictionary/technology</a></p>
+</div>
+<div class="paragraph">
+<p><a id="steinbuch_informatik_1957"></a>Steinbuch, K. (1957). Informatik, Automatische Informationsverarbeitung. <em>SEG-Nachrichten (Technische Mitteilungen Der Standard Elektrik Gruppe)–Firmenzeitschrift</em>, <em>4</em>, 171.</p>
+</div>
+<div class="paragraph">
+<p><a id="webster_technology_1828"></a>Webster, N. (1828). Technology. <em>Webster’s Dictionary of the English Language</em>.</p>
+</div>
+<div class="paragraph">
+<p><a id="whitney_technology_1902"></a>Whitney, W. D. (1902). Technology. <em>The Century Dictionary and Cyclopedia</em>. Retrieved from <a href="http://www.micmap.org/dicfro/search/century-dictionary/technology" class="bare">http://www.micmap.org/dicfro/search/century-dictionary/technology</a></p>
+</div>
+<div class="paragraph">
+<p><a id="zhang_ph-responsive_2015"></a>Zhang, S., Bellinger, A. M., Glettig, D. L., Barman, R., Lee, Y.-A. L., Zhu, J., … Traverso, G. (2015). A pH-Responsive Supramolecular Polymer Gel as an Enteric Elastomer for Use in Gastric Devices. <em>Nature Materials</em>, <em>14</em>(10), 1065–1071. <a href="https://doi.org/10.1038/nmat4355" class="bare">https://doi.org/10.1038/nmat4355</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footnotes">
+<hr>
+<div class="footnote" id="_footnote_1">
+<a href="#_footnoteref_1">1</a>. The extinct common ancestor of Indo-European family of languages.
+</div>
+<div class="footnote" id="_footnote_2">
+<a href="#_footnoteref_2">2</a>. The Google NGram viewer was used to investigate this through searching the corpus of published texts in English since 1900.
+</div>
+</div>
+
+          </div>
+      </main>
+
+  
+  </div>
+
+  
+
+
+            
+
+            </div>
+
+            <div id="footer-block" class="flex-initial">
+                
+
+
+
+
+<footer class="text-gray-600 body-font">
+
+  
+
+
+
+
+  <div class="bg-am-color-darkboard ">
+    <div class="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
+      <p class="text-am-color-whitetext text-sm text-center sm:text-left">© Shahryar Eivazzadeh
+        
+      </p>
+      <span class="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
+        
+        <a class="ml-3 text-am-color-whitetext">
+          <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
+            <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"></path>
+          </svg>
+        </a>
+        
+        
+      </span>
+    </div>
+  </div>
+</footer>
+
+
+    
+            </div>
+
+        </div>
+    </body>
+
+</html>
