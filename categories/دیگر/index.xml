@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>دیگر on Shahryar Eivazzadeh</title>
+    <link>/categories/%D8%AF%DB%8C%DA%AF%D8%B1/</link>
+    <description>Recent content in دیگر on Shahryar Eivazzadeh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Mar 2016 00:00:00 +0000</lastBuildDate><atom:link href="/categories/%D8%AF%DB%8C%DA%AF%D8%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>نوشته‌ها</title>
+      <link>/writings_fa/</link>
+      <pubDate>Thu, 03 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/writings_fa/</guid>
+      <description>مقالات و نوشته‌ها به فارسی</description>
+    </item>
+    
+    <item>
+      <title>دیداری-شنیداری‌ها</title>
+      <link>/media_fa/</link>
+      <pubDate>Tue, 30 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/media_fa/</guid>
+      <description>سمینارها، اسلاید‌ها، صوت</description>
+    </item>
+    
+    <item>
+      <title>ساخته‌ها</title>
+      <link>/artefacts_fa/</link>
+      <pubDate>Tue, 30 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/artefacts_fa/</guid>
+      <description>ساخته‌ها همچون کد و اینفوگراف.</description>
+    </item>
+    
+  </channel>
+</rss>
